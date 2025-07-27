@@ -5,7 +5,7 @@
 🤣 Debugs by crying and Googling  
 🎯 Mission: Turn caffeine into clean code (or at least working code)
 
-![Coding Chaos](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Funny Programmer Cat](https://example.com/path/to/gif.gif)
 
 ---
 
