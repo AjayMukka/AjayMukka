@@ -5,7 +5,7 @@
 🤣 Debugs by crying and Googling  
 🎯 Mission: Turn caffeine into clean code (or at least working code)
 
-![Funny Programmer Cat](https://example.com/path/to/gif.gif)
+![Funny Programmer Cat](assets/programmer-cat.gif)
 
 ---
 
